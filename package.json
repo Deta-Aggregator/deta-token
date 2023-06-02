@@ -1,10 +1,10 @@
 {
-    "name": "@1inch/1inch-token",
+    "name": "@deta/deta-token",
     "version": "0.0.1",
     "description": "",
     "repository": {
         "type": "git",
-        "url": "git@github.com:1inch-exchange/1inch-token.git"
+        "url": "git@github.com:deta-exchange/deta-token.git"
     },
     "license": "MIT",
     "dependencies": {
